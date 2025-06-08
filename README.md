@@ -3,10 +3,11 @@ In machine learning linear regression is a supervised learning algorithm used to
 
 # Learning Objectives
 
-Read a .csv file into a pandas DataFrame.\n
+Read a .csv file into a pandas DataFrame.
 Explore a dataset with Python visualization libraries.
 Experiment with different features to build a linear regression model.
 Tune the model's hyperparameters.
 Compare training runs using root mean squared error and loss curves.
-Dataset Description
+
+# Dataset Description
 The dataset for this exercise is derived from the City of Chicago Taxi Trips dataset. The data for this exercise is a subset of the Taxi Trips data, and focuses on a two-day period in May of 2022.
